@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<genres name="Жанры">
+    <genre name="Pop"/>
+    <genre name="Rock">
+        <group name="Beatles">
+            <album label="Capitol Records" desc="Rubber Soul — шестой студийный альбом группы The Beatles, выпущенный 3 декабря 1965 года" date="1965-12-06" group_name="The Beatles" name="Rubber soul" minut="35" second="50" studio="Martin"/>
+            <album label="Capitol Records" desc="Revolver (с англ. — «Револьвер») — седьмой студийный альбом рок-группы The Beatles, выпущенный 5 августа 1966 года" date="1966-08-5" group_name="The Beatles 22" name="Revolver" minut="34" second="40" studio="Martin"/>
+            <album label="Capitol Records" desc="Magical Mystery Tour (с англ. — «Волшебное таинственное путешествие») — девятый студийный альбом группы The Beatles" date="1967-04-25" group_name="The Beatles" name="Magical Mystery Tour" minut="36" second="53" studio="Martin"/>
+        </group>
+    </genre>
+    <genre name="Country"/>
+</genres>
+</genres>
