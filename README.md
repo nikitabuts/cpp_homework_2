@@ -79,5 +79,5 @@ foo@bar:~/path$ git clone https://github.com/nikitabuts/cpp_homework_2.git
 Выбираем в QT директорию проекта (~/path/cpp_homework_2), билдим, запускаем
 
 ## Ссылка на отчёт
-
+[Google Docs](https://docs.google.com/document/d/1OaTUN9PaKpaBAlTlGYv_S4IhJ__GZ3MfIxIrxninYVs/edit?usp=sharing)
 
